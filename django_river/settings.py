@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken',
     'river_admin',
     'examples.shipping_example',
-'examples.issue_tracker_example',
+    'examples.issue_tracker_example',
 
 ]
 
